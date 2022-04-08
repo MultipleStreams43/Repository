@@ -1,10 +1,9 @@
-# Repository Cybersecurity
+13-Elk-Stack-Project/README.md
 
 ## Automated ELK Stack Deployment
 
 The files in this repository were used to configure the network depicted below.
-~ %  /Documents/GitHubRepositoryLocal/Diagrams/SuperNovice2022/Diagram
-
+untitleduser@Executionisworshipped Repository % 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above or, alternatively, select portions of the Elk file may be used to install only certain pieces of it, such as Filebeat.
 
@@ -33,6 +32,8 @@ What is the advantage of a jump box?
 The Jump box gives you the ability to create, deploy, scale and secure access to a virtual network.
 
 Also integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the logs and systems applications.
+
+
 
 
 
@@ -94,7 +95,7 @@ The following screenshot displays the result of running `sudo docker ps` after s
 
  
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png) (Change the name of the image to the former) (of repository)
+untitleduser@Executionisworshipped/Repository/images/ dockerps.docx
  
 ### Target Machines & Beats
 
